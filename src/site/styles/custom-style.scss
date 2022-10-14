@@ -1050,21 +1050,21 @@ a {
 	height: 100%;
 }
 .w {
-	background-color: --background-secondary;
+	background-color: var(--background-secondary);
 }
 .e {
 	padding-bottom: 100%;
 }
 .t {
 	line-height: 1.4;
-	color: --text-normal;
+	color: var(--text-normal);
 }
 .th {
-	color: --text-normal;
+	color: var(--text-normal);
 }
 .tf {
-	color: --text-a;
+	color: var(--text-a);
 }
 .tw {
-	color: --text-a;
+	color: var(--text-a);
 }

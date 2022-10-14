@@ -19,28 +19,11 @@ I build render farms in the cloud for animation and VFX studios for work and mak
 </div>
 
 
-- 📄 [[VRC Projects/GreatMoonAroma's Tilt Brush Museum World|GreatMoonAroma's Tilt Brush Museum World]]
-- 📄 [[VRC Projects/Rebel's Studio 2.0 World|Rebel's Studio 2.0 World]]
-- 📄 [[VRC Projects/Twitchcon 3d Scanned AirBnB Map|Twitchcon 3d Scanned AirBnB Map]]
-- 🗂️ 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
+---
 
-# _Hidden VRChat Worlds
-
-
-</div>
-
-
-- 📄 [[VRC Projects/Hidden VRChat Worlds/Toon Link Water Shader Demo|Toon Link Water Shader Demo]]
-
-
-
-</div></div>
-
-
-
+```folder-index-content
+```
 
 </div></div>
 

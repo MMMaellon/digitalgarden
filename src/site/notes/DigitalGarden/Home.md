@@ -10,18 +10,17 @@ Pronounced May-lun
   style="
     border: 1px solid rgb(222, 222, 222);
     box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px;
-    width: 100%;
-    ascpect-ratio: 1/1;
+    aspect-ratio: 1/1;
   "
 >
-            <img
+            <div
               target="_blank"
               rel="noopener"
               data-do-not-bind-click
               class="c"
               style="
                 background-image: url('https://pbs.twimg.com/profile_images/1313600813302870017/eSuJtXm__400x400.jpg');
-                ascpect-ratio: 1/1;
+                aspect-ratio: 1/1;
               "
             />
 </div>

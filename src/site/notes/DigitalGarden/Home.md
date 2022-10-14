@@ -76,6 +76,21 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 ---
 
+# Gallery
+
+```gallery
+type=grid
+path=Gallery
+name=67
+imgWidth=400
+divWidth=100
+divAlign=left
+reverseOrder=false
+
+```
+
+---
+
 # Socials
 - Twitter: [@MMMaellon](https://twitter.com/MMMaellon)
 - Discord: MMMaellon#2053

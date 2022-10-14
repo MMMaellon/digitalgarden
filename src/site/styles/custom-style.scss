@@ -22,14 +22,6 @@ img {
 svg:not(:root) {
   overflow: hidden;
 }
-.w,
-body {
-  overflow: hidden;
-  margin: 0;
-  padding: 0;
-  background: none transparent;
-  text-align: left;
-}
 a {
 	background-color: transparent;
 	-webkit-text-decoration-skip: objects;
@@ -48,12 +40,15 @@ a {
 	touch-action: manipulation;
 }
 .w {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  text-align: left;
 	line-height: 1.4;
 	font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI',
 		Roboto, 'Helvetica Neue', Arial, sans-serif;
 	font-weight: 400;
 	font-size: 15px;
-	color: #000;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
 	-ms-hyphens: auto;
@@ -86,7 +81,7 @@ a {
 }
 ._sc,
 ._sm {
-	background: #fff;
+	background: #169;
 }
 ._or .tf {
 	-ms-flex-order: 0;

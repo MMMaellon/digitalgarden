@@ -22,45 +22,18 @@ I build render farms in the cloud for animation and VFX studios for work and mak
 
 ---
 
-```folder-index-content
-```
+
+- [[VRC Projects/GreatMoonAroma's Tilt Brush Museum World|GreatMoonAroma's Tilt Brush Museum World]]
+- **Hidden VRChat Worlds**
+	- [[VRC Projects/Hidden VRChat Worlds/Toon Link Water Shader Demo|Toon Link Water Shader Demo]]
+	- [[VRC Projects/Hidden VRChat Worlds/Zombie Infection - NeoTokyo (Quest)|Zombie Infection - NeoTokyo (Quest)]]
+- [[VRC Projects/Rebel's Studio 2.0 World|Rebel's Studio 2.0 World]]
+- [[VRC Projects/Twitchcon 3d Scanned AirBnB Map|Twitchcon 3d Scanned AirBnB Map]]
+
+
 
 </div></div>
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
----
-```folder-index-content
-```
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
----
-
-```folder-index-content
-```
-
-</div></div>
 
 
 ## Links

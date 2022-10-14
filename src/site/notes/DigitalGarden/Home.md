@@ -49,6 +49,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 
 
+
 </div></div>
 
 ---
@@ -75,14 +76,8 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 ---
 
-```ad-seealso
-title: Socials
-collapse: open
-
+# Socials
 - Twitter: [@MMMaellon](https://twitter.com/MMMaellon)
 - Discord: MMMaellon#2053
 - VRChat: [MMMaellon](https://vrchat.com/home/user/usr_10dfc7a4-e2ed-4929-8eed-533830eced51)
 - Github: [MMMaellon](https://github.com/MMMaellon), [V-Sekai Project](https://github.com/V-sekai)
-
-```
-

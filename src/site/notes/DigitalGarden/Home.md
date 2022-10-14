@@ -25,7 +25,7 @@ Pronounced May-lun
                 background-size: contain;
                 width:50%;
               "
-            />
+            ></div>
 </div>
 
 ## Me

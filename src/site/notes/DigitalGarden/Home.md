@@ -8,9 +8,11 @@ Pronounced May-lun
 
 <div
   style="
-    border: 1px solid rgb(222, 222, 222);
+    border-radius: 50%;
     box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px;
     aspect-ratio: 1/1;
+    width:50%;
+    margin: auto;
   "
 >
             <div
@@ -18,9 +20,10 @@ Pronounced May-lun
               rel="noopener"
               data-do-not-bind-click
               class="c"
-              style="
+              style="border-radius: 50%;
                 background-image: url('https://pbs.twimg.com/profile_images/1313600813302870017/eSuJtXm__400x400.jpg');
-                aspect-ratio: 1/1;
+                background-size: contain;
+                width:50%;
               "
             />
 </div>

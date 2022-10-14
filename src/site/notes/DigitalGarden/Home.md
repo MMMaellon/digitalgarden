@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/digital-garden/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
@@ -31,6 +31,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 ## Directory
 
+### VRC Projects 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -53,6 +54,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 </div></div>
 
+### Random
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

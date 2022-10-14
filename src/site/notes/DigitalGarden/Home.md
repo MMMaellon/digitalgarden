@@ -28,6 +28,41 @@ I build render farms in the cloud for animation and VFX studios for work and mak
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+
+---
+```folder-index-content
+```
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+
+---
+
+```folder-index-content
+```
+
+</div></div>
+
+
 ## Links
 - Twitter: [@MMMaellon](https://twitter.com/MMMaellon)
 - Discord: MMMaellon#2053

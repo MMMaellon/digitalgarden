@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/vrc-projects/hidden-vr-chat-worlds/zombie-infection-neo-tokyo-quest/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/vrc-projects/hidden-vr-chat-worlds/zombie-infection-neo-tokyo-quest/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
-## [VRChat Link](https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4)
+# [VRChat Link](https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4)
 
 I'm having lots of trouble getting it optimized enough for Quest. Right now, I average 30 fps in an empty lobby :(
 

@@ -76,13 +76,13 @@ I build render farms in the cloud for animation and VFX studios for work and mak
         <div class="e" style="padding-bottom: 100%">
           <div class="em">
             <a
-              href="https://twitter.com/mmmaellon"
+              href="https://twitter.com/MMMaellon"
               target="_blank"
               rel="noopener"
               data-do-not-bind-click
               class="c"
               style="
-                background-image: url('https://pbs.twimg.com/profile_images/1313600813302870017/eSuJtXm__normal.jpg');
+                background-image: url('https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc7279.png');
               "
             ></a>
           </div>
@@ -91,16 +91,16 @@ I build render farms in the cloud for animation and VFX studios for work and mak
       <div class="wt">
         <div class="t _f0 _ffsa _fsn _fwn">
           <div class="th _f1p _fsn _fwb">
-            <a href="https://twitter.com/mmmaellon" target="_blank" rel="noopener" class="thl"
-              >MMMaellon (@MMMaellon) &#x2F; Twitter</a
+            <a href="https://twitter.com/MMMaellon" target="_blank" rel="noopener" class="thl"
+              >Profile &#x2F; Twitter</a
             >
           </div>
-          <div class="td">Fully fueled and ready for gaming!</div>
+          <div class="td">Don’t miss what’s happening</div>
           <div class="tf _f1m">
             <div class="tc">
-              <a href="https://twitter.com/mmmaellon" target="_blank" rel="noopener" class="tw _f1m"
-                ><span class="twt">https://twitter.com/mmmaellon</span
-                ><span class="twd">https://twitter.com/mmmaellon</span></a
+              <a href="https://twitter.com/MMMaellon" target="_blank" rel="noopener" class="tw _f1m"
+                ><span class="twt">https://twitter.com/MMMaellon</span
+                ><span class="twd">https://twitter.com/MMMaellon</span></a
               >
             </div>
           </div>

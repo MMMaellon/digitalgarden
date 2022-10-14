@@ -24,7 +24,7 @@ _(pronounced may-lun)_
             />
 </div>
 
-I build render farms on AWS for animation and VFX studios and make [VRChat](www.vrchat.com) worlds as a hobby.
+I build render farms on AWS for animation and VFX studios and make [VRChat](www.vrchat.com) worlds as a hobby. 
 
 ---
 

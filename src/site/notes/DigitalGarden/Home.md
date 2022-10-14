@@ -5,8 +5,10 @@
 
 # MMMaellon
 
-## About
-I build render farms in the cloud for animation and VFX studios and make [VRChat](www.vrchat.com) worlds as a hobby.
+## Me
+I build render farms on AWS for animation and VFX studios and make [VRChat](www.vrchat.com) worlds as a hobby.
+
+---
 
 ## Directory
 
@@ -19,8 +21,6 @@ I build render farms in the cloud for animation and VFX studios and make [VRChat
 </div>
 
 
-
----
 
 
 - [[VRC Projects/GreatMoonAroma's Tilt Brush Museum World|GreatMoonAroma's Tilt Brush Museum World]]
@@ -35,6 +35,25 @@ I build render farms in the cloud for animation and VFX studios and make [VRChat
 </div></div>
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+
+
+
+
+
+
+</div></div>
+
+
+---
 
 ## Links
 - Twitter: [@MMMaellon](https://twitter.com/MMMaellon)

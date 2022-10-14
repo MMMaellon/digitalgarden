@@ -15,17 +15,13 @@ Pronounced May-lun
     margin: auto;
   "
 >
-            <div
-              target="_blank"
-              rel="noopener"
-              data-do-not-bind-click
-              class="c"
+            <img
+            src="https://pbs.twimg.com/profile_images/1313600813302870017/eSuJtXm_.jpg"
               style="border-radius: 50%;
-                background-image: url('https://pbs.twimg.com/profile_images/1313600813302870017/eSuJtXm__400x400.jpg');
-                background-size: contain;
-                width:50%;
+              height:100%;
+                object-fit: cover;
               "
-            ></div>
+            />
 </div>
 
 ## Me

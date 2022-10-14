@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vrc-projects/hidden-vr-chat-worlds/toon-link-water-shader-demo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/vrc-projects/hidden-vr-chat-worlds/toon-link-water-shader-demo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
-## [VRChat Link](https://vrchat.com/home/world/wrld_5fcfa503-1493-4b0c-b6c6-43c252f4ae32)
+# [VRChat Link](https://vrchat.com/home/world/wrld_5fcfa503-1493-4b0c-b6c6-43c252f4ae32)
+
 Vowgan was asking for a Toon Link Style VRChat water shader, so I coded one up.
 
 I used a rounded Voronoi noise generator to make the pattern and used simplex noise to distort it and make it more "watery."

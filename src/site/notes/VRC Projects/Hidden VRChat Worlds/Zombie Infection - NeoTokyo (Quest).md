@@ -31,6 +31,51 @@
         <div class="t _f0 _ffsa _fsn _fwn">
           <div class="th _f1p _fsn _fwb">
             <a href="https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4" target="_blank" rel="noopener" class="thl"
+              >VRChat</a
+            >
+          </div>
+          <div class="td">Zombie Infection Quest by MMMaellon - a virtual reality world on VRChat</div>
+          <div class="tf _f1m">
+            <div class="tc">
+              <a href="https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4" target="_blank" rel="noopener" class="tw _f1m"
+                ><span class="twt">https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4</span
+                ><span class="twd">https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4</span></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div
+  style="
+    border: 1px solid rgb(222, 222, 222);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px;
+  "
+>
+  <div class="w __if _lc _sm _od _alsd _alcd _lh14 _xm _xi _ts _dm">
+    <div class="wf">
+      <div class="wc">
+        <div class="e" style="padding-bottom: 100%">
+          <div class="em">
+            <a
+              href="https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4"
+              target="_blank"
+              rel="noopener"
+              data-do-not-bind-click
+              class="c"
+              style="
+                background-image: url('https://api.vrchat.cloud/api/1/file/file_e8acb4b0-1b99-4258-9402-5e72040ed646/2/file');
+              "
+            ></a>
+          </div>
+        </div>
+      </div>
+      <div class="wt">
+        <div class="t _f0 _ffsa _fsn _fwn">
+          <div class="th _f1p _fsn _fwb">
+            <a href="https://vrchat.com/home/world/wrld_0e6b77e6-ce49-425f-9b9a-4fc3978c5dd4" target="_blank" rel="noopener" class="thl"
               >Zombie Infection Quest by MMMaellon</a
             >
           </div>
@@ -48,7 +93,6 @@
     </div>
   </div>
 </div>
-
 
 I'm having lots of trouble getting it optimized enough for Quest. Right now, I average 30 fps in an empty lobby :(
 

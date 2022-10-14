@@ -6,7 +6,7 @@
 # MMMaellon
 
 ## About
-I build render farms in the cloud for animation and VFX studios for work and make [VRChat](www.vrchat.com) worlds as a hobby.
+I build render farms in the cloud for animation and VFX studios and make [VRChat](www.vrchat.com) worlds as a hobby.
 
 ## Directory
 

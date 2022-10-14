@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vrc-projects/twitchcon-3d-scanned-air-bn-b-map/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false}
+{"dg-publish":true,"permalink":"/vrc-projects/twitchcon-3d-scanned-air-bn-b-map/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 I 3d scanned the backyard of one of the AirBnB's at Twitchcon 2022 and plan on turning it into a VRChat map.

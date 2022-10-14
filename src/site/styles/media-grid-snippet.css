@@ -1,6 +1,6 @@
+@charset "UTF-8";
 /* This snippet requires Contextual Typography 2.2.1+ */
 /* https://github.com/mgmeyers/obsidian-contextual-typography */
-
 :root {
   --content-base-width: 45rem;
 }
@@ -8,7 +8,6 @@
 /* ----------------------------------------- */
 /* Handle overall content width */
 /* ----------------------------------------- */
-
 /* Wrapper with padding keeps content from bumping the edges */
 .markdown-preview-view {
   padding-inline: 30px;
@@ -17,7 +16,8 @@
 /* Container controlling overall max content width */
 .markdown-preview-view .content {
   width: 100%;
-  max-width: var(--content-max-width, 45rem); /* Second value is fallback in case user isn't using Style settings */
+  max-width: var(--content-max-width, 45rem);
+  /* Second value is fallback in case user isn't using Style settings */
 }
 
 /* All children of overall container are divs */
@@ -27,35 +27,34 @@
 }
 
 /* Specific children of overall container that contain media */
-.markdown-preview-view .content div[data-is-embed] {
+.markdown-preview-view .content  {
   width: 100%;
 }
 
 /* ----------------------------------------- */
 /* Make media items display in rows */
 /* ----------------------------------------- */
-
 /* p tags wrap each row */
-.markdown-preview-view .content div[data-is-embed] > p {
-  display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(0, 1fr));
+.markdown-preview-view .content > p {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
   grid-gap: var(--media-grid-gap, 7px);
   margin: 0;
 }
 
 /* Remove breaks from the document flow */
-.markdown-preview-view .content div[data-is-embed] > p br {
+.markdown-preview-view .content > p br {
   display: none;
 }
 
 /* Media items sourced from your vault are wrapped in a span – media linked from the web is not wrapped */
-.markdown-preview-view .content div[data-is-embed] > p > span {
+.markdown-preview-view .content > p > span {
   display: flex;
 }
 
 /* Apply this to all img/video tags in a row whether they're wrapped in a span or not */
-.markdown-preview-view .content div[data-is-embed] > p img,
-.markdown-preview-view .content div[data-is-embed] > p video {
+.markdown-preview-view .content > p img,
+.markdown-preview-view .content > p video {
   flex: 1;
   align-self: stretch;
   object-fit: cover;
@@ -63,14 +62,13 @@
 }
 
 /* Create gaps between rows */
-.markdown-preview-view .content div[data-is-embed] + div[data-is-embed] {
+.markdown-preview-view .content p + p {
   margin-top: var(--media-grid-gap, 7px);
 }
 
 /* ----------------------------------------- */
 /* Style settings */
 /* ----------------------------------------- */
-
 /* @settings
 name: Media Grid Snippet
 id: media-grid-snippet
@@ -119,3 +117,5 @@ settings:
       max: 40
       step: 1
 */
+
+/*# sourceMappingURL=media-grid-snippet.css.map */

@@ -3,8 +3,8 @@
 ---
 
 
-# MMMaellon
-Pronounced May-lun
+# MMMaellon 
+_(pronounced may-lun)_
 
 <div
   style="
@@ -24,14 +24,11 @@ Pronounced May-lun
             />
 </div>
 
-## Me
 I build render farms on AWS for animation and VFX studios and make [VRChat](www.vrchat.com) worlds as a hobby.
 
 ---
 
-## Directory
-
-### VRC Projects 
+# VRChat Projects 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -54,7 +51,9 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 </div></div>
 
-### Random
+---
+
+# Other Stuff
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -76,8 +75,14 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](www.
 
 ---
 
-## Links
+```ad-seealso
+title: Socials
+collapse: open
+
 - Twitter: [@MMMaellon](https://twitter.com/MMMaellon)
 - Discord: MMMaellon#2053
 - VRChat: [MMMaellon](https://vrchat.com/home/user/usr_10dfc7a4-e2ed-4929-8eed-533830eced51)
 - Github: [MMMaellon](https://github.com/MMMaellon), [V-Sekai Project](https://github.com/V-sekai)
+
+```
+

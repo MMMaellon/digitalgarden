@@ -4,6 +4,30 @@
 
 
 # MMMaellon
+
+## About
+I build render farms in the cloud for animation and VFX studios for work and make [VRChat](www.vrchat.com) worlds as a hobby.
+
+## Directory
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+ [[DigitalGarden/Home|Home]]
+
+
+
+</div></div>
+
+
 ## Links
-- Twitter: [ twitter.com/MMMaellon| @MMMaellon]
-- Github: [https://github.com/MMMaellon | MMMaellon]
+- Twitter: [@MMMaellon](https://twitter.com/MMMaellon)
+- Discord: MMMaellon#2053
+- VRChat: [MMMaellon](https://vrchat.com/home/user/usr_10dfc7a4-e2ed-4929-8eed-533830eced51)
+- Github: [MMMaellon](https://github.com/MMMaellon), [V-Sekai Project](https://github.com/V-sekai)

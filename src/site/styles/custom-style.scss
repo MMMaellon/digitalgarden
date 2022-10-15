@@ -4,6 +4,23 @@
   background-color: white;
 }
 
+hr, .hr.cm-line, .HyperMD-hr-bg {
+  border-color: var(--green) !important;
+}
+h1, .cm-header-1 {
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: linear-gradient( var(--gradientDegree), var(--pink) 0, var(--orange) 50%) !important;
+}
+.external-link{
+  color:var(--cyan) !important;
+}
+
+.internal-link{
+  color:var(--cyan) !important;
+}
+
 
 //The following taken from https://github.com/Seraphli/obsidian-link-embed/blob/main/styles.css
 //in an attempt to make embedded links work

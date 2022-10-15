@@ -14,13 +14,21 @@ h1, .cm-header-1 {
   background-image: linear-gradient( var(--gradientDegree), var(--pink) 0, var(--orange) 50%) !important;
 }
 .external-link{
-  color:var(--cyan) !important;
+  color: #34a1eb !important;
 }
 
 .internal-link{
-  color:var(--cyan) !important;
+  color: #34a1eb !important;
 }
 
+
+.external-link:visited{
+  color: #2e5887 !important;
+}
+
+.internal-link:visited{
+  color: #2e5887 !important;
+} 
 
 //The following taken from https://github.com/Seraphli/obsidian-link-embed/blob/main/styles.css
 //in an attempt to make embedded links work

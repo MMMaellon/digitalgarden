@@ -61,6 +61,11 @@
   border-radius: var(--media-border-radius, 4px);
 }
 
+.markdown-preview-view .content > p.gallery img::before,
+.markdown-preview-view .content > p.gallery video::before {
+  display: none;
+}
+
 /* Create gaps between rows */
 .markdown-preview-view .content p.gallery + p.gallery {
   margin-top: var(--media-grid-gap, 7px);

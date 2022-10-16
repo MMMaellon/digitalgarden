@@ -29,9 +29,11 @@ At the start of every day, a new person becomes the *Captain* who then chooses a
 		- You have to shoot them back to kill them
 3. Stop at a trading port
 	- Make no progress towards the Witch's Island but you get to trade fish for **scurvy** meds
+	- Captain chooses the amount of med packs to buy and has to lock in the amount before the crew votes to haggle.
 	- Price for meds is randomized. It's between 5 and (5 * player count) fish for 1 med pack.
-	- 1 med pack prevents scurvy for the entire crew for 1 day
-	- When there's no med packs left, a random non-cursed crewmember is given **scurvy**.
+		- Players can vote to haggle two more times. Haggling randomizes the price again.
+	- 1 med pack prevents **scurvy** for the entire crew for 1 day
+		- When there's no med packs left, a random non-cursed crewmember is given **scurvy**.
 		- Crewmates with **scurvy** spew gross particles everywhere and die in 2 days if they don't get more meds
 4. Fight the Kraken
 	- Make no progress towards the Witch's Island, and have to fight a giant tentacled monster

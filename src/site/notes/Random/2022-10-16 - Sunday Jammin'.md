@@ -9,7 +9,7 @@
 
 Came up with this little #guitar solo today:
 
-[Twitter Embed](https://twitter.com/MMMaellon/status/1581799961779326976?s=20&t=uSXP4xcoMYeUrpMzLZsnNA)
+[<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Sunday Jammin&#39;<br><br>Really struggled with staying on beat and I think I may have plagiarized some parts, but I still thought it came out nice <a href="https://t.co/S4GKcQimey">pic.twitter.com/S4GKcQimey</a></p>&mdash; MMMaellon (@MMMaellon) <a href="https://twitter.com/MMMaellon/status/1581799961779326976?ref_src=twsrc%5Etfw">October 17, 2022</a></blockquote>](https://twitter.com/MMMaellon/status/1581799961779326976?s=20&t=Gwt4QcKIPuPogAODo55b8Q)
 
 It's mostly unedited, but I did flub the very last part lol so that last chord is from another take.
 Drums + bass from my TRIO guitar pedal and backing guitar was recorded on the pedal's built-in looper.

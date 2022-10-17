@@ -31,11 +31,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](http
 # VRChat Projects 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
@@ -59,11 +55,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](http
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 

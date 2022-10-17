@@ -68,7 +68,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](http
 
 
 
-
+- [[Random/2022-10-16 - Sunday Jammin'|2022-10-16 - Sunday Jammin']]
 
 
 

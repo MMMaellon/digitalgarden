@@ -39,8 +39,8 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](http
 - **Hidden VRChat Worlds**
 	- [[VRC Projects/Hidden VRChat Worlds/Toon Link Water Shader Demo|Toon Link Water Shader Demo]]
 	- [[VRC Projects/Hidden VRChat Worlds/Zombie Infection - NeoTokyo (Quest)|Zombie Infection - NeoTokyo (Quest)]]
+- **[[VRC Projects/Pirate Curse Party/Pirate Curse Party|Pirate Curse Party]]**
 - [[VRC Projects/Rebel's Studio 2.0 World|Rebel's Studio 2.0 World]]
-- [[VRC Projects/RotHeart's Pirate Curse|RotHeart's Pirate Curse]]
 - [[VRC Projects/Twitchcon 3d Scanned AirBnB Map|Twitchcon 3d Scanned AirBnB Map]]
 
 

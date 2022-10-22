@@ -41,6 +41,7 @@ I build render farms on AWS for animation and VFX studios and make [VRChat](http
 	- [[VRC Projects/Hidden VRChat Worlds/Zombie Infection - NeoTokyo (Quest)|Zombie Infection - NeoTokyo (Quest)]]
 - **[[VRC Projects/Pirate Curse Party/Pirate Curse Party|Pirate Curse Party]]**
 - [[VRC Projects/Rebel's Studio 2.0 World|Rebel's Studio 2.0 World]]
+- [[VRC Projects/The Painted Prince|The Painted Prince]]
 - [[VRC Projects/Twitchcon 3d Scanned AirBnB Map|Twitchcon 3d Scanned AirBnB Map]]
 
 
